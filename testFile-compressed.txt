@@ -1,4 +1,4 @@
-input
+testFile
 .txt
 10 762 01000
 13 762 110101
